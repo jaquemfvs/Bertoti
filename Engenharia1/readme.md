@@ -4,3 +4,4 @@ We see three critical differences between programming and software engineering: 
 
 # Comentário
 
+Programção é você saber programar, talvez um ou mais tipos de linguagem. Já Engenharia de Software, alem de saber programar, precisa-se saber qual a melhor linguagem para se utilizar, entender a funcionalidade do que está sendo pedido pelo cliente, escolhendo o que será melhor para um projeto.
