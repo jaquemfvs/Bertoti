@@ -14,4 +14,4 @@ Engenharia de software não é programação, mas a programação faz parte da e
 <img src="https://github.com/jaquemfvs/Bertoti/assets/118978492/1fc5f84b-7b09-454b-b370-3a235126e581" alt="Flor"><br>
 <img src="https://github.com/jaquemfvs/Bertoti/assets/118978492/a9e881de-1676-4959-87c8-0e702a77e670" alt="Especificação"> <br>
 <img src="https://github.com/jaquemfvs/Bertoti/assets/118978492/1ef0b0a6-3311-41e5-b86f-abcd3bcc2d30" alt="Floricultura"><br>
-<img src="(https://github.com/jaquemfvs/Bertoti/assets/118978492/9479164b-198d-4f7e-84ce-8816d2b1dc10" alt="Main"> <br>
+<img src="https://github.com/jaquemfvs/Bertoti/assets/118978492/9479164b-198d-4f7e-84ce-8816d2b1dc10" alt="Main"> <br>
