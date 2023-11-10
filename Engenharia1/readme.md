@@ -10,8 +10,8 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 # Comentário
 Engenharia de software não é programação, mas a programação faz parte da engenharia de software. Para criar sistemas precisamos da programação, então em alguns momentos utilizaremos a programação na engenharia de software.
 
-<h1 align="center"><img src="C:\Área de Trabalho\Fatec\2º Sem\Engenharia de Software\Diagrama" alt="Diagrama"></h1><br>
-<h1 align="center"><img src="C:\Área de Trabalho\Fatec\2º Sem\Engenharia de Software\Flor" alt="Flor"></h1><br>
-<h1 align="center"><img src="C:\Área de Trabalho\Fatec\2º Sem\Engenharia de Software\Espec" alt="Especificação"></h1> <br>
-<h1 align="center"><img src="C:\Área de Trabalho\Fatec\2º Sem\Engenharia de Software\Floricultura" alt="Floricultura"></h1> <br>
-<h1 align="center"><img src="C:\Área de Trabalho\Fatec\2º Sem\Engenharia de Software\Principal" alt="Main"></h1> <br>
+<img src="https://github.com/jaquemfvs/Bertoti/assets/118978492/3864c229-90f9-4a3d-a8be-70e18ef90170" alt="Diagrama"><br>
+<img src="https://github.com/jaquemfvs/Bertoti/assets/118978492/1fc5f84b-7b09-454b-b370-3a235126e581" alt="Flor"><br>
+<img src="https://github.com/jaquemfvs/Bertoti/assets/118978492/a9e881de-1676-4959-87c8-0e702a77e670" alt="Especificação"> <br>
+<img src="https://github.com/jaquemfvs/Bertoti/assets/118978492/1ef0b0a6-3311-41e5-b86f-abcd3bcc2d30" alt="Floricultura"><br>
+<img src="(https://github.com/jaquemfvs/Bertoti/assets/118978492/9479164b-198d-4f7e-84ce-8816d2b1dc10" alt="Main"> <br>
