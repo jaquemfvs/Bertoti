@@ -1,7 +1,7 @@
 # Site: https://www.nngroup.com/articles/ten-usability-heuristics/
 
 # Meu Comentário:
-1- Mostrar o que está acontecendo: O design deve sempre informar aos usuários o que está acontecendo no sistema, de uma maneira que eles entendam rapidamente. Exemplo: Site ingresso.com quando vai trocar a cidade, não tem um botão de ok, para saber se trocou de cidade ou não e fica a tela de troca aberta. <br>
+1- Mostrar o que está acontecendo: O design deve sempre informar aos usuários o que está acontecendo no sistema, de uma maneira que eles entendam rapidamente. Exemplo: Site ingresso.com quando vai trocar a cidade, não tem um botão de ok, para saber se trocou de cidade ou não e fica a tela de troca aberta. <br>          <img src="https://github.com/jaquemfvs/Bertoti/assets/118978492/14c1a164-ed58-4fbf-b9ec-53abd3728334"> <br>
 2- Falar a linguagem dos usuários: Use palavras e conceitos que os usuários entendam, e siga convenções do mundo real para que eles se sintam confortáveis. <br>
 3- Dar controle aos usuários: Os usuários devem poder corrigir erros facilmente, como apertar um botão para desfazer uma ação. <br>
 4- Ser consistente: O sistema deve ser previsível e seguir as mesmas regras em todos os lugares, para que os usuários não fiquem confusos. <br>
