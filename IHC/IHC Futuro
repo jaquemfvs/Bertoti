@@ -1,0 +1,20 @@
+https://colab.research.google.com/drive/1cjYNsO3YEu9BqzgjwQKegzeU1eEY70xi?usp=sharing
+
+Projeto de Interação Humano-Computador com Telegram Bot
+
+1. Passo a passo de configuração
+Abra o Telegram e procure pelo chat do BotFather.
+Envie os comandos:
+/start
+/newbot
+Escolha um nome e um nome de usuário para o seu bot.
+O BotFather fornecerá um token. Guarde este token para usar posteriormente.
+Clique no link fornecido pelo BotFather para iniciar uma conversa com seu novo bot.
+
+2. Configuração do Ambiente no Google Colab
+Abra o Google Colab e crie um novo notebook.
+Cole cada código separado abaixo em uma célula diferente no Colab.
+
+3. Execução do Projeto
+Rode uma célula de cada vez no Google Colab.
+No Telegram, abra o chat com seu bot e envie /start para iniciar a interação.
