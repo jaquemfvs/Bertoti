@@ -1,6 +1,6 @@
 # Engenharia de Software III
 
-Design Pattern
+Design Pattern.
 
 - STRATEGY
 - OBSERVER
