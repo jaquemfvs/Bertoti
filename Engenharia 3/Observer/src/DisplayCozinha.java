@@ -1,3 +1,4 @@
+package src;
 public class DisplayCozinha implements Observer {
     @Override
     public void update(String status) {

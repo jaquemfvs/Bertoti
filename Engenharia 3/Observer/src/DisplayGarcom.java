@@ -1,3 +1,4 @@
+package src;
 public class DisplayGarcom implements Observer {
     @Override
     public void update(String status) {
