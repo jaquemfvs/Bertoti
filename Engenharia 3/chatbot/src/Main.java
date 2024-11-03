@@ -1,15 +1,25 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import controller.ReservaController;
+import model.Mesa;
+import model.Reserva;
+import model.Restaurante;
+import telegram.TelegramBotConfig;
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        Restaurante restaurante = new Restaurante();
+        ReservaController controller = new ReservaController(restaurante);
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+             TelegramBotConfig.iniciarBot(restaurante);
+
+        Mesa mesa1 = new Mesa(1, 4);
+        Mesa mesa2 = new Mesa(2, 2);
+
+        Reserva reserva1 = new Reserva("João", mesa1, "19:00");
+        Reserva reserva2 = new Reserva("Maria", mesa2, "20:00");
+
+        controller.adicionarReserva(reserva1);
+        controller.adicionarReserva(reserva2);
+
+        controller.cancelarReserva(reserva1);
     }
 }
