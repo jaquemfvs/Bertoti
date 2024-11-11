@@ -1,3 +1,5 @@
+import Pedal.Pedal;
+
 public class Bicicleta {
     private Pedal pedal;
 
@@ -6,10 +8,6 @@ public class Bicicleta {
     }
 
     public void usarPedal() {
-        if (pedal != null) {
-            pedal.usarPedal();
-        } else {
-            System.out.println("Pedal não definido.");
-        }
+        pedal.usarPedal();
     }
 }

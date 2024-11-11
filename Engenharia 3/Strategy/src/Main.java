@@ -1,7 +1,6 @@
-import com.example.pedal.Bicicleta;
-import com.example.pedal.Eletrica;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-import com.example.pedal.Manual;
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import Pedal.Eletrica;
+import Pedal.Manual;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("- Análise Bike -");

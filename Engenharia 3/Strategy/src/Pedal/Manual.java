@@ -1,7 +1,7 @@
-import com.example.pedal.pedal;
+package Pedal;
 
 public class Manual implements Pedal {
-       public void usarPedal() {
+    public void usarPedal() {
         System.out.println("Usando pedal manual.");
     }
 }

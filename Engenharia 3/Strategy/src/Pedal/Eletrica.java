@@ -1,5 +1,7 @@
+package Pedal;
+
 public class Eletrica implements Pedal {
-      public void usarPedal() {
+    public void usarPedal() {
         System.out.println("Usando pedal elétrico.");
     }
 }
